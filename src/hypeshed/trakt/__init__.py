@@ -1,1 +1,1 @@
-BASE_URL = "https://api.trakt.tv"
+URL = "https://api.trakt.tv"

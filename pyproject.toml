@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "hypeshed"
-version = "0.0.3"
+version = "0.0.4"
 description = "A typestub package that defines types for public APIs"
 authors = ["Bence Nagy <bence@underyx.me>"]
 license = "MIT"
